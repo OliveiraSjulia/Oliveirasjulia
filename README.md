@@ -1,5 +1,5 @@
 ### Julia Oliveira 
-- Tenho 18 anos e iniciando carreira;
+- Tenho 18 anos e estou iniciando carreira;
 - Bucando sempre aprender mais e colocando em pratica;
 - Aprendendo a desenvolver e programar {backend, frontend and mobile};
 - Cursos de :  
