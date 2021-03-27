@@ -1,7 +1,7 @@
-### Julia Oliveira 
+### Julia Oliveira :D
 - Tenho 18 anos e estou iniciando carreira;
-- Bucando sempre aprender mais e colocando em pratica;
-- Aprendendo a desenvolver e programar {backend, frontend and mobile};
+- Bucando sempre colocar em prática meus aprendizados;
+- Atualmente aprendendo a desenvolver e programar {backend, frontend and mobile};
 - Cursos de :  
 [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-000?style=flat-logo=JavaScript&logoColor=white&link=https://developer.mozilla.org/en-US/docs/Web/JavaScript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
 [![HTML Badge](https://img.shields.io/badge/-HTML-orange?style=flat-CIRCLE&logo=html&logoColor=white&link=https://www.w3.org/html/)](https://www.w3.org/html/)
