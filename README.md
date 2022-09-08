@@ -1,7 +1,7 @@
 ### Julia Oliveira :D
-- Tenho 18 anos e estou iniciando carreira;
+- Tenho 20 anos e estou iniciando carreira;
 - Bucando sempre colocar em prática meus aprendizados;
-- Atualmente aprendendo a programar;
+- Atualmente cursando ADS na Universidade;
 - Cursos de :  
 [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-000?style=flat-logo=JavaScript&logoColor=white&link=https://developer.mozilla.org/en-US/docs/Web/JavaScript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
 [![HTML Badge](https://img.shields.io/badge/-HTML-orange?style=flat-CIRCLE&logo=html&logoColor=white&link=https://www.w3.org/html/)](https://www.w3.org/html/)
